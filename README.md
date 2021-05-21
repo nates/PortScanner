@@ -1,9 +1,9 @@
-# PortScanner
-A multi-threaded port scanner made in Go.
-## Requirements
+# 🤿 PortScanner
+A multi-threaded port scanner made in Go. 
+## 🧳 Requirements
 * Go (latest)
 
-## Installation
+## 🏗️ Building
 ```
 go build ./src/scanner
 ```
