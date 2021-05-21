@@ -8,7 +8,7 @@ A multi-threaded port scanner made in Go.
 go build ./src/scanner
 ```
 
-## Usage
+## 🕹️ Usage
 ```
 ./scanner.exe -threads=1 -protocol=tcp -host=127.0.0.1 -ports=22,80,443
 ```
