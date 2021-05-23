@@ -1,4 +1,4 @@
-# 🤿 PortScanner
+# 🤿 scout
 A multi-threaded port scanner made in Go. 
 ## 🧳 Requirements
 * Go (latest)
